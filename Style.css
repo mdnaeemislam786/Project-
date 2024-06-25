@@ -1,0 +1,307 @@
+:root {
+  scroll-behavior: smooth;
+}
+body{
+		background: black ;
+}
+
+.heder{
+		height: 50px;
+		width: 100%;
+		background: blue;
+		display: flex;
+		margin: auto;
+		position: sticky;
+}
+.hed_title{
+		width:90%;
+		background: blue;
+		font-size: 50px;
+		font-style:  normal ;
+		text-align: center;
+		font-family: shrif;
+}
+.noti{
+		width:10%;
+		background: blueviolet ;
+		text-align: center;
+		justify-content: center;
+		align-items: center;
+		height: 50px;
+		margin: auto;
+}
+.aaa{
+		color: aliceblue;
+		font-size: 50px;
+		text-decoration: none;
+}
+.hhh{
+		color: black;
+		text-decoration: none;
+}
+.name-div{
+		background: black ;
+		margin-top: 50%;
+}
+.name{
+		color: white;
+		font-size: 30px;
+		text-align: center;
+		margin: auto;
+}
+.name-s{
+		color: white;
+		font-size: 30px;
+		text-align: center;
+		margin: auto;
+		transform: 1s;
+		text-rendering: optimizeSpeed;
+		text-align: center;
+		padding-bottom: 200px;
+}
+
+
+
+/*  ------------------ information--------steard------------ */
+
+
+
+.img1{
+		margin-top: 200px;
+		height: 350px;
+		width:350px;
+		padding-left: 8px;
+		margin: 0px;
+		justify-content: center;
+}
+.info{
+		height: 600px;
+		background: white;
+		overflow: scroll;
+		box-shadow: 0px 10px 20px 5px white;
+		transition: all 0.5s ease-in-out;
+		padding-top: 10px;
+}
+.in1{
+		text-align: center;
+		transition: all 0.5s ease-in-out;
+}
+.line1{
+		list-style: none;
+		text-align: start;
+		
+}
+
+
+
+/*-  ---------------- information------------end------ !--*/
+
+
+
+
+/*-  ---------------- skills------------steard------------- !--*/
+
+.skills{
+		height: 500px;
+		background: white;
+		box-shadow: 0px 10px 20px 5px white;
+		
+}
+
+.skills h1{
+		text-align: center;
+		margin-top: 25px;
+		padding-top: 50px;
+}
+
+.d1{
+		height: 8px;
+		background: green;
+		margin: auto;
+		width: 80%;
+		padding: 2px;
+}
+.d1 div{
+		background: chartreuse;
+		height: 8px;
+		width: 87%;
+		color: fuchsia ;
+		font-size: 10px;
+		text-align: center;
+		animation-name: example;
+  animation-duration: 8s;
+}
+.htm1{
+		margin-left: 10%;
+		margin-bottom: 0px;
+		color: blue;
+}
+
+
+
+.htm2{
+		margin-left: 10%;
+		margin-bottom: 0px;
+		color: blue;
+}
+.d2{
+		height: 8px;
+		background: green;
+		margin: auto;
+		width: 80%;
+		padding: 2px;
+}
+.d2 div{
+		background: chartreuse;
+		height: 8px;
+		width: 77%;
+		color: fuchsia ;
+		font-size: 10px;
+		text-align: center;
+		animation-name: example;
+  animation-duration: 7s;
+}
+
+
+.htm3{
+		margin-left: 10%;
+		margin-bottom: 0px;
+		color: blue;
+}
+.d3{
+		height: 8px;
+		background: green;
+		margin: auto;
+		width: 80%;
+		padding: 2px;
+}
+.d3 div{
+		background: chartreuse;
+		height: 8px;
+		width: 58%;
+		color: fuchsia ;
+		font-size: 10px;
+		text-align: center;
+		animation-name: example;
+  animation-duration: 5s;
+}
+
+
+.htm4{
+		margin-left: 10%;
+		margin-bottom: 0px;
+		color: blue;
+}
+.d4{
+		height: 8px;
+		background: green;
+		margin: auto;
+		width: 80%;
+		padding: 2px;
+}
+.d4 div{
+		background: chartreuse;
+		height: 8px;
+		width: 90%;
+		color: fuchsia ;
+		font-size: 10px;
+		text-align: center;
+		animation-name: example;
+  animation-duration: 9s;
+}
+
+
+.htm5{
+		margin-left: 10%;
+		margin-bottom: 0px;
+		color: blue;
+}
+.d5{
+		height: 8px;
+		background: green;
+		margin: auto;
+		width: 80%;
+		padding: 2px;
+}
+.d5 div{
+		background: chartreuse;
+		height: 8px;
+		width: 92%;
+		color: fuchsia ;
+		font-size: 10px;
+		text-align: center;
+		animation-name: example;
+  animation-duration: 9s;
+}
+
+
+.htm6{
+		margin-left: 10%;
+		margin-bottom: 0px;
+		color: blue;
+}
+.d6{
+		height: 8px;
+		background: green;
+		margin: auto;
+		width: 80%;
+		padding: 2px;
+}
+.d6 div{
+		background: chartreuse;
+		height: 8px;
+		width: 36%;
+		color: fuchsia ;
+		font-size: 10px;
+		text-align: center;
+		animation-name: example;
+  animation-duration: 3s;
+}
+
+
+.htm7{
+		margin-left: 10%;
+		margin-bottom: 0px;
+		color: blue;
+}
+.d7{
+		height: 8px;
+		background: green;
+		margin: auto;
+		width: 80%;
+		padding: 2px;
+		
+}
+.d7 div{
+		background: chartreuse;
+		height: 8px;
+		width: 20%;
+		color: fuchsia ;
+		font-size: 10px;
+		text-align: center;
+		animation-name: example;
+  animation-duration: 2s;
+}
+@keyframes example {
+  0%   {background-color:red;}
+  25%  {background-color:yellow;}
+  50%  {background-color: coral; }
+  75%  {background-color: aquamarine; }
+  100% {background-color: chartreuse ; }
+}
+/*-  ---------------- Skills----------------------end------ !--*/
+
+
+
+.aboute{
+		background: white;
+		height: 600px;
+		width:100%;
+		margin-top: 25px;
+}
+.about_title{
+		margin-top: 25px;
+		text-align: center;
+		margin-top: 20px;
+		
+}
